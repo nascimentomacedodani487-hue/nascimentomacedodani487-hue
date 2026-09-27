@@ -244,10 +244,11 @@ class Daniel:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nascimentomacedodani487-hue&show_icons=true&theme=dark&bg_color=0f172a&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&border_color=1e293b&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentomacedodani487-hue&layout=compact&theme=dark&bg_color=0f172a&title_color=3B82F6&text_color=c9d1d9&border_color=1e293b&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nascimentomacedodani487-hue&show_icons=true&theme=dark&bg_color=0f172a&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&border_color=1e293b" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=nascimentomacedodani487-hue&theme=dark&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border=1e293b&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentomacedodani487-hue&layout=compact&theme=dark&bg_color=0f172a&title_color=3B82F6&text_color=c9d1d9&border_color=1e293b" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=nascimentomacedodani487-hue&theme=dark&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border=1e293b" width="100%"/>
 
 </div>
 
@@ -263,7 +264,7 @@ class Daniel:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nascimentomacedodani487-hue&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nascimentomacedodani487-hue&theme=onedark&no-frame=true&margin-w=4&margin-h=4"/>
 
 </div>
 
