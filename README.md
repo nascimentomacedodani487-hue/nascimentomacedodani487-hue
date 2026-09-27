@@ -244,15 +244,11 @@ class Daniel:
 
 <div align="center">
 
-<!-- SERVIDORES EXTERNOS COM ERRO 402 (Vercel/Demolab) -->
-<!-- Quando voltarem, basta apagar estas setas de comentário HTML -->
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=nascimentomacedodani487-hue&show_icons=true&theme=dark&bg_color=0f172a&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&border_color=1e293b" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentomacedodani487-hue&layout=compact&theme=dark&bg_color=0f172a&title_color=3B82F6&text_color=c9d1d9&border_color=1e293b" />
-<img src="https://streak-stats.demolab.com?user=nascimentomacedodani487-hue&theme=dark&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border=1e293b" />
--->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nascimentomacedodani487-hue&show_icons=true&theme=dark&bg_color=0f172a&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&border_color=1e293b" />
 
-<p><em>Estatísticas detalhadas em manutenção pelos servidores globais. Voltamos em breve! ⚡</em></p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nascimentomacedodani487-hue&layout=compact&theme=dark&bg_color=0f172a&title_color=3B82F6&text_color=c9d1d9&border_color=1e293b" />
+
+<img src="https://streak-stats.demolab.com?user=nascimentomacedodani487-hue&theme=dark&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border=1e293b" />
 
 </div>
 
@@ -268,12 +264,8 @@ class Daniel:
 
 <div align="center">
 
-<!-- SERVIDOR DO TROPHIES ESTÁ TEMPORARIAMENTE COM ERRO 402 -->
-<!-- 
-<img src="https://github-profile-trophy.vercel.app/?username=nascimentomacedodani487-hue&theme=onedark&no-frame=true&no-bg=true" />
--->
-
-<p><em>Os troféus estão em manutenção pelo servidor global da ferramenta. Volto logo! 🚀</em></p>
+<!-- Trophies é mais difícil de achar espelho, então adicionamos parâmetros agressivos para tentar forçar o servidor original a renderizar -->
+<img src="https://github-profile-trophy.vercel.app/?username=nascimentomacedodani487-hue&theme=onedark&no-frame=true&margin-w=4&margin-h=4&row=1&column=7&no-bg=true" />
 
 </div>
 
