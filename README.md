@@ -244,10 +244,6 @@ class Daniel:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nascimentomacedodani487-hue&show_icons=true&theme=dark&bg_color=0f172a&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&border_color=1e293b"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentomacedodani487-hue&layout=compact&theme=dark&bg_color=0f172a&title_color=3B82F6&text_color=c9d1d9&border_color=1e293b"/>
-
 <img src="https://streak-stats.demolab.com?user=nascimentomacedodani487-hue&theme=dark&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border=1e293b"/>
 
 </div>
