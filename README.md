@@ -244,11 +244,7 @@ class Daniel:
 
 <div align="center">
 
-<img src="https://nascimentomacedodani487-5ioivnb4t-daniel-0e05.vercel.app/api?username=nascimentomacedodani487-hue&show_icons=true&theme=dark&bg_color=0f172a&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&border_color=1e293b"/>
-
-<img src="https://nascimentomacedodani487-5ioivnb4t-daniel-0e05.vercel.app/api/top-langs/?username=nascimentomacedodani487-hue&layout=compact&theme=dark&bg_color=0f172a&title_color=3B82F6&text_color=c9d1d9&border_color=1e293b"/>
-
-<img src="https://nascimentomacedodani487-5ioivnb4t-daniel-0e05.vercel.app/api/streak/?username=nascimentomacedodani487-hue&theme=dark&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border=1e293b"/>
+<img src="https://streak-stats.demolab.com?user=nascimentomacedodani487-hue&theme=dark&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border=1e293b"/>
 
 </div>
 
@@ -260,20 +256,13 @@ class Daniel:
 
 ---
 
-### 🏆 Trophies
+### 🏆 Milestones & Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nascimentomacedodani487-hue&theme=onedark&no-frame=true&margin-w=4&margin-h=4"/>
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nascimentomacedodani487-hue/nascimentomacedodani487-hue/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+  <img src="https://img.shields.io/badge/Main_Stack-Python_%7C_Pandas_%7C_SQL-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Viz-Power_BI_%7C_Streamlit-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_%26_Eng-AWS_%7C_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 > ⚙️ **Nota técnica:** a snake acima é gerada dinamicamente via GitHub Actions. Adicione o workflow abaixo em `.github/workflows/snake.yml` no seu repositório de perfil para ativá-la:
