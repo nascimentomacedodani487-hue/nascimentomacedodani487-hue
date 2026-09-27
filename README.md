@@ -246,8 +246,6 @@ class Daniel:
 
 <img src="https://streak-stats.demolab.com?user=nascimentomacedodani487-hue&theme=dark&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border=1e293b"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentomacedodani487-hue&layout=compact&theme=dark&bg_color=0f172a&title_color=3B82F6&text_color=c9d1d9&border_color=1e293b"/>
-
 </div>
 
 <div align="center">
@@ -255,8 +253,6 @@ class Daniel:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nascimentomacedodani487-hue&theme=react-dark&bg_color=0f172a&color=3B82F6&line=3B82F6&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
-
----
 
 ### 🏆 Trophies
 
